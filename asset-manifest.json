@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ForexApp/static/css/main.201395e6.css",
+    "main.js": "/ForexApp/static/js/main.42934838.js",
+    "index.html": "/ForexApp/index.html",
+    "main.201395e6.css.map": "/ForexApp/static/css/main.201395e6.css.map",
+    "main.42934838.js.map": "/ForexApp/static/js/main.42934838.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.201395e6.css",
+    "static/js/main.42934838.js"
+  ]
+}
